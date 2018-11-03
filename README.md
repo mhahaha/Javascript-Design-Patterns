@@ -8,7 +8,7 @@
 - [迭代器模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/4)（待更新...）
 - [发布－订阅模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/5)（待更新...）
 - [命令模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/6)（待更新...）
-- [组合模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/7)（待更新...）
+- [组合模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/7)
 - [模板方法模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/8)（待更新...）
 - [享元模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/9)（待更新...）
 - [职责链模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/10)（待更新...）
