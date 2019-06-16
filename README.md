@@ -4,7 +4,7 @@
 
 - [单例模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/1)
 - [策略模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/2)
-- [代理模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/3)（待更新...）
+- [代理模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/3)
 - [迭代器模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/4)（待更新...）
 - [发布－订阅模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/5)（待更新...）
 - [命令模式](https://github.com/dev-meifan/Javascript-Design-pattern/issues/6)（待更新...）
